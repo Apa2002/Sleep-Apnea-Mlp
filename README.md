@@ -17,6 +17,12 @@ The dataset consists of 400 rows and 13 columns, including variables such as gen
 
 *The author of the dataset states that the data is synthetic and generated for illustrative purposes.*
 
+## Additional Components
+
+**Graphical User Interface (GUI):**  
+This project includes a custom-developed graphical user interface (GUI) implemented in C# for model demonstration and user interaction.  
+**Note:** The original article did not provide any GUI implementation; this component was independently designed and developed as part of this project.
+
 ## License
 
 This project is distributed under the [Creative Commons Attribution Non-Commercial 4.0 License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0).
@@ -26,4 +32,4 @@ You are free to use, share, and adapt this work for non-commercial purposes, pro
 
 ---
 
-*Note: I am not an author of the referenced article or the Kaggle dataset. This code is my own implementation based on the methods described in the paper and using the above synthetic dataset.*
+*Disclaimer: I am not an author of the referenced article or the Kaggle dataset. This repository contains my own implementation of the described method and an independently developed GUI, using the above synthetic dataset.*
